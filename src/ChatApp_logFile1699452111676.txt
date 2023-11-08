@@ -1,0 +1,10 @@
+New user connected: Dat
+New user connected: Thuan
+[Dat]: Hello Thuan
+[Thuan]: Hi
+[Dat]: khoe khong ?<3
+[Thuan]: co
+[Dat]: hehe
+[Thuan]: hihi
+[Dat]: bye bye e
+[Thuan]: ok
