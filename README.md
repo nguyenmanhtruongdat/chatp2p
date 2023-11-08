@@ -6,7 +6,7 @@
 
 ## Features
 
-- Chat beetween 2 peer(client)
+- Chat beetween 2 peer (client) using Java
 
 
 ## ✅ Installation
