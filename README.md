@@ -1,8 +1,8 @@
-```diff # ChatApp P2P ```
+# $${\color{blue}ChatApp P2P}$$
 
 A chat peer to peer program in console
 
-## Installation
+## ✅ Installation
 
 To run the Server: ```bash java –jar .\jar\chatServer_1.0.jar portNumber ```
 
