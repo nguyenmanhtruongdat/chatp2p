@@ -1,4 +1,4 @@
-# $${\color{blue}ChatApp P2P}$$
+# Chat P2P App
 
 A chat peer to peer program in console
 
